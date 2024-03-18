@@ -2,6 +2,7 @@
 
 ## About
 This is script for download objects(nodes) with enabled export as image from Figma.
+It can be used in automation tasks for downloading images or icons from Figma.
 
 Made using [Phind](https://www.phind.com/) by [Ivan Samoylenko](https://www.linkedin.com/in/ivnsam).
 
